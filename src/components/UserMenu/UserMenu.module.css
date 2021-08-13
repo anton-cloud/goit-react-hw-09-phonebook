@@ -1,0 +1,13 @@
+.menu {
+  background-color: rgb(255, 136, 0);
+  display: flex;
+  justify-content: flex-end;
+}
+
+.menu p {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+}

@@ -1,0 +1,18 @@
+.menu {
+  background-color: rgba(243, 239, 8, 0.945);
+  display: flex;
+  justify-content: flex-end;
+}
+
+.menu a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.menu a:hover {
+  color: rgb(25, 146, 216);
+  transform: scale(1.1);
+}
